@@ -1,4 +1,4 @@
-# CSE330
+# CSE330 - Rapid Prototype Development and Creative Programming
 
 Description of creative project: We allowed the user to create a new profile with their name, birthday, hometown, and a summary. We also allowed the user to edit their profile and update it whenever they want. 
 
